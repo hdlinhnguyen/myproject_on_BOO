@@ -1,1 +1,2 @@
-# myminorproject_on_rhoNF
+# This is my stuyding project. 
+All the errors are mine.
