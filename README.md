@@ -1,2 +1,2 @@
-# This is my studying project. 
+# This is my original project. 
 All the errors are mine.
